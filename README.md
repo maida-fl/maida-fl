@@ -3,7 +3,6 @@
 ![image](https://user-images.githubusercontent.com/88347050/172056895-75352f7b-258c-452f-bc2c-4ea9ac5e2c6e.png)
 
 ### About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
 #### Skills
 [<img align="left" alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img align="left" alt="CSS3" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -17,4 +16,4 @@
 <br />
 
 #### Contact me
-[<img align="left" alt="linkedin" title="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/88347050/172057133-59266aba-853a-44ad-9d54-1541794c209b.png" style="padding-right:10px;" />](https://www.linkedin.com/in/maida-guzman/)
+[<img align="left" alt="linkedin" title="LinkedIn" width="35px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" style="padding-right:10px;" />](https://www.linkedin.com/in/maida-guzman/)
