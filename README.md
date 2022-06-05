@@ -12,7 +12,9 @@
 [<img align="left" alt="Node.js" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
 [<img align="left" alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://dev.mysql.com/)
 [<img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+[<img align="left" alt="figma" title="Figma" width="40px" src="https://user-images.githubusercontent.com/88347050/172058025-8fa97984-7b98-4e63-9320-70c4d8986241.png" style="padding-right:10px;" />](https://figma.com/)
 <br />
 <br />
+
 #### Contact me
 [<img align="left" alt="linkedin" title="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/88347050/172057133-59266aba-853a-44ad-9d54-1541794c209b.png" style="padding-right:10px;" />](https://www.linkedin.com/in/maida-guzman/)
