@@ -12,6 +12,7 @@
 [<img align="left" alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://dev.mysql.com/)
 [<img align="left" alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="figma" title="Figma" width="40px" src="https://user-images.githubusercontent.com/88347050/172058025-8fa97984-7b98-4e63-9320-70c4d8986241.png" style="padding-right:10px;" />](https://figma.com/)
+[<img align="left" alt="Microsoft Azure" title="Microsoft Azure" width="40px" src="https://user-images.githubusercontent.com/88347050/172098142-74af6a50-42c2-4648-9e2a-5e537c35bca2.png" style="padding-right:10px;" />](https://azure.microsoft.com/en-us/)
 <br />
 <br />
 
